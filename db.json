@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "e_name": "himanshi",
+      "e_lastname": "ghghhh",
+      "e_email": "hjdksjk@gmail.com",
+      "e_phone": "45566",
+      "id": 1
+    },
+    {
+      "e_name": "kritika",
+      "e_lastname": "pandey",
+      "e_email": "dajjzxh@gmail.com",
+      "e_phone": "73264675364",
+      "id": 2
+    },
+    {
+      "e_name": "udjdjksf",
+      "e_lastname": "aduj",
+      "e_email": "jdhzkj@gmail.com",
+      "e_phone": "48209924",
+      "id": 3
+    },
+    {
+      "e_name": "Akshay KUmar",
+      "e_lastName": "hkkkk",
+      "e_email": "sharmahimu8@gmail.com",
+      "e_phone": "28766",
+      "id": 5
+    }
+  ]
+}
